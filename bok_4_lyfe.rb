@@ -13,8 +13,6 @@ class Bok_4_Lyfe
     puts "we all love movies"
     puts "we all have light eyes" 
   
-  
-  
   def gender
     @gender
   end
