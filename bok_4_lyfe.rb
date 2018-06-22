@@ -43,4 +43,3 @@ class Bok_4_Lyfe
       puts "kathryns activity is #{kathryn.activity}."
       puts "kathryns eye color is #{kathryn.eye_color}."
       puts "kathryns favorite movie is #{kathryn.movies}."
-    end
