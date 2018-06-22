@@ -7,8 +7,8 @@ class Bok_4_Lyfe
   
   def same_attributes
     puts "we all love movies"
-    puts "and have light eyes"
-    puts "and are girls"
+    puts "and we have light eyes"
+    puts "and we are girls"
   end
   
   def activity
