@@ -8,6 +8,10 @@ class Bok_4_Lyfe
   end
   
   def basic_facts
+    puts "we are all girls"
+    puts "we all participate in activities"
+    puts "we all love movies"
+    puts "we all have light eyes" 
   
   
   
