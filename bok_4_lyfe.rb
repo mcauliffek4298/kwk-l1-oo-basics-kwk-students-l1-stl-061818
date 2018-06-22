@@ -42,11 +42,11 @@ class Bok_4_Lyfe
       puts "bellas eye color is #{bella.eyecolors}."
       puts "bellas favorite movie is #{bella.movies}"
       
-    kathryn = Bok_4_Lyfe.new ("cheer", "blue", "Dead Poet's Society")
-      puts "Give me some information about Kathryn!"
-      puts "kathryn is a #{kathryn.gender}."
-      puts "kathryns activity is #{kathryn.activity}."
-      puts "kathryns eye color is #{kathryn.eyecolor}."
-      puts "kathryns favorite movie is #{kathryn.movies}."
-      puts "kathryns favorite movie is #{kathryn.movies}."
-    end
+    # kathryn = Bok_4_Lyfe.new ("cheer", "blue", "Dead Poet's Society")
+    #   puts "Give me some information about Kathryn!"
+    #   puts "kathryn is a #{kathryn.gender}."
+    #   puts "kathryns activity is #{kathryn.activity}."
+    #   puts "kathryns eye color is #{kathryn.eyecolor}."
+    #   puts "kathryns favorite movie is #{kathryn.movies}."
+    #   puts "kathryns favorite movie is #{kathryn.movies}."
+    # end
