@@ -1,0 +1,3 @@
+class Bok_4_Lyfe
+ def initialize (activity, eye_color, movies)
+ 
