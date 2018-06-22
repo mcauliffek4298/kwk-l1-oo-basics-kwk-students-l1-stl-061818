@@ -1,12 +1,18 @@
 class Bok_4_Lyfe
  
-  def initialize (gender, eyecolors, activity, movies)
-    @gender = gender
+  def initialize(eyecolors, activity, movies)
     @eyecolors = eyecolors
     @activity = activity
     @movies = movies
   end
   
+  def same_attributes
+    puts "she loves movies"
+    puts "she has light eyes"
+    puts "she loves movies"
+    puts "she is a part of kode with klossy"
+    puts "she is a girl"
+    
     def gender
     @gender
   end
