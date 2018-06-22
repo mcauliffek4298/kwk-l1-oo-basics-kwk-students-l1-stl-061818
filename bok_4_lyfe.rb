@@ -24,10 +24,11 @@ class Bok_4_Lyfe
   def movies
     @movies
   
-  brianna = Bok_4_Lyfe.new ("track","eye color", "50 First Dates")
+  brianna = Bok_4_Lyfe.new ("girl", "track","eye color", "50 First Dates")
     puts "Give me some information about Brianna!"
+    puts "Brianna is a #{brianna.gender}"
     puts "Briannas actvity is #{brianna.activity}."
-    puts "Brianna's eye color is #{brianna.eye_color}."
+    puts "Brianna's eye color is #{brianna.eyecolors}."
     puts "Brianna's favorite movie is #{brianna.movies}."
     
     bella = Bok_4_Lyfe.new ("dance", "blue", "The Star Wars Trilogies")
