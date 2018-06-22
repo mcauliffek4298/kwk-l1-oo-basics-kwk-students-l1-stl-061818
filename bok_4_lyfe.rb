@@ -25,6 +25,9 @@ class Bok_4_Lyfe
   
   def movies
     @movies
+    
+  end
+end
   
   brianna = Bok_4_Lyfe.new ("track","eyecolors", "50 First Dates")
     puts "Give me some information about Brianna!"
