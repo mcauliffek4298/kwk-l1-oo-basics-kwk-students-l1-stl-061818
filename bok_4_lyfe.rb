@@ -1,6 +1,6 @@
 class Bok_4_Lyfe
  
-  def initialize (gender, eyecolors, activity, movies)
+  def  (gender, eyecolors, activity, movies)
     @gender = gender
     @eyecolors = eyecolors
     @activity = activity
