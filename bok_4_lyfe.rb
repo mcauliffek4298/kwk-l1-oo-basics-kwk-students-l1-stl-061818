@@ -7,6 +7,8 @@ class Bok_4_Lyfe
     @movies = movies
   end
   
+  def basic_facts
+  
   
   
   def gender
